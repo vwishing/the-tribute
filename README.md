@@ -1,2 +1,2 @@
 # the-tribute
-Tribute - HTML &amp; CSS
+Tribute - HTML &amp; CSS Practice
